@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-<?php
-echo "PHP is working!";
-?>
-=======
 <?php include "includes/header.php"; ?>
 
 <div class="hero">
@@ -16,4 +11,3 @@ echo "PHP is working!";
 </div>
 
 <?php include "includes/footer.php"; ?>
->>>>>>> a54ca62707db8cfd27f1a75c3a3ac2996b97cb3c
